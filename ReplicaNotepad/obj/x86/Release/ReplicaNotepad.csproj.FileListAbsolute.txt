@@ -1,0 +1,11 @@
+E:\programming\csharp\project\personal\ReplicaNotepad\ReplicaNotepad\bin\Release\ReplicaNotepad.exe
+E:\programming\csharp\project\personal\ReplicaNotepad\ReplicaNotepad\bin\Release\ReplicaNotepad.pdb
+E:\programming\csharp\project\personal\ReplicaNotepad\ReplicaNotepad\obj\x86\Release\ReplicaNotepad.FormAbout.resources
+E:\programming\csharp\project\personal\ReplicaNotepad\ReplicaNotepad\obj\x86\Release\ReplicaNotepad.FormFind.resources
+E:\programming\csharp\project\personal\ReplicaNotepad\ReplicaNotepad\obj\x86\Release\ReplicaNotepad.FormGoTo.resources
+E:\programming\csharp\project\personal\ReplicaNotepad\ReplicaNotepad\obj\x86\Release\ReplicaNotepad.FormMain.resources
+E:\programming\csharp\project\personal\ReplicaNotepad\ReplicaNotepad\obj\x86\Release\ReplicaNotepad.FormReplace.resources
+E:\programming\csharp\project\personal\ReplicaNotepad\ReplicaNotepad\obj\x86\Release\ReplicaNotepad.Properties.Resources.resources
+E:\programming\csharp\project\personal\ReplicaNotepad\ReplicaNotepad\obj\x86\Release\ReplicaNotepad.exe
+E:\programming\csharp\project\personal\ReplicaNotepad\ReplicaNotepad\obj\x86\Release\ReplicaNotepad.pdb
+E:\programming\csharp\project\personal\ReplicaNotepad\ReplicaNotepad\obj\x86\Release\ReplicaNotepad.csproj.GenerateResource.Cache

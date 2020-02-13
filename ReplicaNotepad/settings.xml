@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <PositionLeft>50</PositionLeft>
+    <PositionTop>20</PositionTop>
+    <StartWidth>700</StartWidth>
+    <StartHeight>500</StartHeight>
+    <WordWrap>1</WordWrap>
+    <FontName>Microsoft YaHei</FontName>
+    <FontStyle>Regular</FontStyle>
+    <FontSize>12</FontSize>
+    <StatusBarVisible>0</StatusBarVisible>
+    <BackColor>#FFFFFF</BackColor>
+</Settings>
